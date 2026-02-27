@@ -4,8 +4,8 @@ import os
 from time import sleep
 
 
-IP = "192.168.1.152"
-PORT = 443
+IP = "XXX.XXX.X.XXX"
+PORT = XXX
 
 
 def connect (ip, port):
